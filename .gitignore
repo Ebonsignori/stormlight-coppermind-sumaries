@@ -1,0 +1,10 @@
+.env.local
+audio/
+text/
+images/
+
+# System files
+.DS_Store
+
+# Error log
+error.log

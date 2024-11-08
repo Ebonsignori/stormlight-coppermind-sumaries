@@ -1,0 +1,9 @@
+{
+  "python.envFile": "${workspaceFolder}/.env",
+  "python.autoComplete.extraPaths": [
+    "./src"
+  ],
+  "python.analysis.extraPaths": [
+    "./src"
+  ]
+}
